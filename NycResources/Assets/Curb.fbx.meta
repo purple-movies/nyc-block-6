@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: 9b28094516a5847408e8182296c45345
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -10,7 +9,14 @@ ModelImporter:
     3300000: //RootNode
     4300000: O_border
     9500000: //RootNode
-  externalObjects: {}
+    11400000: //RootNode
+    11400002: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Border
+    second: {fileID: 2100000, guid: 61727958ac77be74ab7a1582d70d78eb, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -53,6 +59,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

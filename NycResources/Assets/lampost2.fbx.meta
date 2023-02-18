@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: 4cadf139e880fb444bbf4e677048c9e4
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -27,7 +26,14 @@ ModelImporter:
     6400000: Block06NYC6Farola:Light
     6400002: //RootNode
     9500000: //RootNode
-  externalObjects: {}
+    11400000: //RootNode
+    11400002: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result2
+    second: {fileID: 2100000, guid: 27e9c513e2848914f852b65e619174c7, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -70,6 +76,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

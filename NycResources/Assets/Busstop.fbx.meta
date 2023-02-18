@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: bf7443ef7118025448b46f1fbf52268e
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -25,7 +24,24 @@ ModelImporter:
     4300004: polymsh_extracted1
     4300006: polymsh
     9500000: //RootNode
-  externalObjects: {}
+    11400000: //RootNode
+    11400002: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2100000, guid: ff20c456d0dffab4a875b0d239977590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2100000, guid: 4701b096068a2244d81d3e99b87077c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result21
+    second: {fileID: 2100000, guid: 4ec6cff20d6a91044bd0c5e937090542, type: 2}
   materials:
     importMaterials: 1
     materialName: 2
@@ -68,6 +84,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

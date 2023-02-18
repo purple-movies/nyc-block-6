@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: 87eaa9078f473c344aa945530855fb42
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -175,7 +174,72 @@ ModelImporter:
     6400052: Object274
     6400054: Rectangle76
     9500000: //RootNode
-  externalObjects: {}
+    11400000: Box1432
+    11400002: Box1433
+    11400004: Box144
+    11400006: Box145
+    11400008: Box146
+    11400010: Box147
+    11400012: Box1489
+    11400014: Box1490
+    11400016: Box170
+    11400018: Circle172
+    11400020: Cylinder510
+    11400022: Cylinder907
+    11400024: Line2164
+    11400026: Line2165
+    11400028: Ob89
+    11400030: Ob91
+    11400032: Object155
+    11400034: Object257
+    11400036: Object258
+    11400038: Object267
+    11400040: Object268
+    11400042: Object269
+    11400044: Object270
+    11400046: Object271
+    11400048: Object272
+    11400050: Object273
+    11400052: Object274
+    11400054: Rectangle76
+    11400056: //RootNode
+    11400058: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2100000, guid: 2746e5bb1b4a38f4883f1c24d767b2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result11
+    second: {fileID: 2100000, guid: 2746e5bb1b4a38f4883f1c24d767b2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result12
+    second: {fileID: 2100000, guid: ded9b15322d176b4fa60eb540e649b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result14
+    second: {fileID: 2100000, guid: df36e77de0a3b9f42b3d5c36b185ee4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result17
+    second: {fileID: 2100000, guid: f1885d525aca4e14884c9c932bd90b7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result20
+    second: {fileID: 2100000, guid: 70b32133df63869449b5d31905f0e5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result21
+    second: {fileID: 2100000, guid: 98a3a9b1fd2533845a925e6f60eaf602, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -218,6 +282,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: 4181cb0b040df7941a7e1067fd13389f
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -271,7 +270,138 @@ ModelImporter:
     6400084: Rectangle5764
     6400086: Rectangle5765
     9500000: //RootNode
-  externalObjects: {}
+    11400000: Box01b
+    11400002: Box11
+    11400004: Box1915
+    11400006: Box1916
+    11400008: Box1917
+    11400010: Box1918
+    11400012: Box1919
+    11400014: Box1920
+    11400016: Box1921
+    11400018: Box1922
+    11400020: Box1923
+    11400022: Box1924
+    11400024: Box1925
+    11400026: Box1926
+    11400028: Box1934
+    11400030: Box46
+    11400032: Box47
+    11400034: Box49
+    11400036: Box75
+    11400038: Box76
+    11400040: Box77
+    11400042: Box78
+    11400044: Box79
+    11400046: Box80
+    11400048: Box81
+    11400050: Box82
+    11400052: Box83
+    11400054: Box84
+    11400056: Box85
+    11400058: Box86
+    11400060: Box88
+    11400062: Box89
+    11400064: //RootNode
+    11400066: //RootNode
+    11400068: Cylinder01
+    11400070: Cylinder02
+    11400072: Cylinder03
+    11400074: Cylinder04
+    11400076: polymsh
+    11400078: polymsh1
+    11400080: polymsh19
+    11400082: polymsh2
+    11400084: polymsh4
+    11400086: polymsh5
+    11400088: Rectangle5764
+    11400090: Rectangle5765
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 6ef61e5f3f04bd94a9a0c06fe98bb99c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17142
+    second: {fileID: 2100000, guid: 4163eed1be5797e43a547d5f484f42a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17143
+    second: {fileID: 2100000, guid: cf75bb330b45e9b4a92ec9d0b3d48bec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17145
+    second: {fileID: 2100000, guid: 10671f8fd28cf9242bd1297560252878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17146
+    second: {fileID: 2100000, guid: cfaa2f1cdc4233543b4815411f9ccff3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17148
+    second: {fileID: 2100000, guid: abed135569b19b147b3bce124b6699be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17150
+    second: {fileID: 2100000, guid: 143a25748a831324cbbc60e0aac70ebe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17151
+    second: {fileID: 2100000, guid: 6ef61e5f3f04bd94a9a0c06fe98bb99c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17153
+    second: {fileID: 2100000, guid: 2a8a29a2f2a09d1489f17569f2dd8ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__17156
+    second: {fileID: 2100000, guid: b4f3ba3ecb03e3743992c9ac370a1627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scene_Material
+    second: {fileID: 2100000, guid: 8da9072851f553246a227f460acafd08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _73
+    second: {fileID: 2100000, guid: b926f68be080ef44abdb11f5e289cf95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result2
+    second: {fileID: 2100000, guid: 76c33d69540f2d54a85d8263afc83faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result3
+    second: {fileID: 2100000, guid: 5c42f21b11ecd0d4fb7fd2086222ff96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result6
+    second: {fileID: 2100000, guid: 3be4ed90c7bafc04993da6175a1c729b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result7
+    second: {fileID: 2100000, guid: 727d7ef164747c74ab70618fdb4dfb0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sign22
+    second: {fileID: 2100000, guid: 229ee9553ee7d9445be3221dcaea20d7, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -314,6 +444,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

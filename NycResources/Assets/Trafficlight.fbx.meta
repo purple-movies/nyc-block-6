@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: 34cc1fbc1a4a17247ad55306cf392a68
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -32,7 +31,83 @@ ModelImporter:
     4300006: polymsh
     4300008: polymsh4
     9500000: //RootNode
-  externalObjects: {}
+    11400000: polymsh
+    11400002: polymsh1
+    11400004: polymsh3
+    11400006: polymsh4
+    11400008: //RootNode
+    11400010: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material13
+    second: {fileID: 2100000, guid: 04a3bad7de45d7e4595a103bd0285b8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material14
+    second: {fileID: 2100000, guid: e59dae4d1217b6a4f8c1a24b88d2910e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material15
+    second: {fileID: 2100000, guid: fb185de671eeb5146a8e7fba28516a21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material16
+    second: {fileID: 2100000, guid: aabddaa6d7491854f9be8e786546b320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material17
+    second: {fileID: 2100000, guid: 6d14535fca456e74483bb2ff389d25ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material18
+    second: {fileID: 2100000, guid: 5d44b3ff1bca35949add9e892e94173b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material19
+    second: {fileID: 2100000, guid: b1870d559fd6bdc4d89104221f5d2811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material6
+    second: {fileID: 2100000, guid: 7f46638f35899cd4d90b005ed871069d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material7
+    second: {fileID: 2100000, guid: eaef3bc7bfff14243a2283e21bb8f726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material8
+    second: {fileID: 2100000, guid: 4c5f9c788add9c8409c3a91d374c274a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result25
+    second: {fileID: 2100000, guid: d771d3299c55df34f8a302a5c77a2c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result43
+    second: {fileID: 2100000, guid: 5b46e527254c9ab48a2c0d1d5709f4d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result44
+    second: {fileID: 2100000, guid: 6343e27053777724f9b7851dcbe75a4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result45
+    second: {fileID: 2100000, guid: cfb6500c407a218469ac513fd509b071, type: 2}
   materials:
     importMaterials: 1
     materialName: 2
@@ -75,6 +150,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88

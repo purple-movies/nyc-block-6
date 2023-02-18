@@ -1,6 +1,5 @@
 fileFormatVersion: 2
 guid: f6806bac7e6048f4fa49cd463996ac64
-timeCreated: 18446744011573954816
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -517,7 +516,144 @@ ModelImporter:
     6400166: Rectangle80
     6400168: Spindle06
     9500000: //RootNode
-  externalObjects: {}
+    11400000: Box1573
+    11400002: Box1574
+    11400004: Box1575
+    11400006: Box1576
+    11400008: Box1577
+    11400010: Box1578
+    11400012: Box1579
+    11400014: Box1580
+    11400016: Box1588
+    11400018: Box1589
+    11400020: Box1590
+    11400022: Box163
+    11400024: Box165
+    11400026: Box166
+    11400028: Box167
+    11400030: Box1997
+    11400032: Box1998
+    11400034: Circle154
+    11400036: Circle155
+    11400038: Circle180
+    11400040: Cylinder925
+    11400042: Cylinder926
+    11400044: Line693
+    11400046: Line694
+    11400048: Line695
+    11400050: Line696
+    11400052: Line697
+    11400054: Line698
+    11400056: Line699
+    11400058: Line700
+    11400060: O05
+    11400062: O06
+    11400064: Object187
+    11400066: Object206
+    11400068: Object30
+    11400070: Object317
+    11400072: Object318
+    11400074: Object319
+    11400076: Object320
+    11400078: Object321
+    11400080: Object322
+    11400082: Object323
+    11400084: Object61
+    11400086: Plane64
+    11400088: Plane65
+    11400090: polymsh14
+    11400092: polymsh15
+    11400094: polymsh16
+    11400096: Rectangle2034
+    11400098: Rectangle2035
+    11400100: Rectangle2036
+    11400102: Rectangle2037
+    11400104: Rectangle2038
+    11400106: Rectangle2039
+    11400108: Rectangle2040
+    11400110: Rectangle2041
+    11400112: Rectangle2042
+    11400114: Rectangle2043
+    11400116: Rectangle2044
+    11400118: Rectangle2045
+    11400120: Rectangle2046
+    11400122: Rectangle2047
+    11400124: Rectangle2048
+    11400126: Rectangle2049
+    11400128: Rectangle2050
+    11400130: Rectangle2051
+    11400132: Rectangle2052
+    11400134: Rectangle2053
+    11400136: Rectangle2054
+    11400138: Rectangle2055
+    11400140: Rectangle2056
+    11400142: Rectangle2057
+    11400144: Rectangle2058
+    11400146: Rectangle2059
+    11400148: Rectangle5233
+    11400150: Rectangle5234
+    11400152: Rectangle5235
+    11400154: Rectangle5236
+    11400156: Rectangle5276
+    11400158: Rectangle5277
+    11400160: Rectangle6651
+    11400162: Rectangle6652
+    11400164: Rectangle6653
+    11400166: Rectangle80
+    11400168: //RootNode
+    11400170: //RootNode
+    11400172: Spindle06
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result11
+    second: {fileID: 2100000, guid: 2746e5bb1b4a38f4883f1c24d767b2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result12
+    second: {fileID: 2100000, guid: ded9b15322d176b4fa60eb540e649b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result15
+    second: {fileID: 2100000, guid: 0814dd3b2cb9c29438ff6e68b075cae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result31
+    second: {fileID: 2100000, guid: 58fb0036118185a4cba48d1cc367a359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result46
+    second: {fileID: 2100000, guid: af95a4919571a6f44b58d30999f39ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result48
+    second: {fileID: 2100000, guid: 8947a6a2e50bd37478a781e77891692a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result50
+    second: {fileID: 2100000, guid: 25e3797018de2b54fbf327b9d7cc03a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result52
+    second: {fileID: 2100000, guid: 8df7e90f2a37523408787152c967a37f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result53
+    second: {fileID: 2100000, guid: 00f3390f2b174414e80499efde6725cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flatiron_bake_result54
+    second: {fileID: 2100000, guid: a72a1cdac44953d4a8aa1cb13cb563a0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -560,6 +696,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
